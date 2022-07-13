@@ -12,6 +12,10 @@ $ npm i
 $ npm run dev
 ```
 
+## Page
+- CloudFlare 배포 : [Page](https://vue3-movie-app.pages.dev/#/)
+- Netlify 배포 : [Page](https://vue3-movie-app.pages.dev/#/)
+
 ## Specs
 
 - Vue3
