@@ -14,7 +14,7 @@ $ npm run dev
 
 ## Page
 - CloudFlare 배포 : [Page](https://vue3-movie-app.pages.dev/#/)
-- Netlify 배포 : [Page](https://vue3-movie-app.pages.dev/#/)
+- Netlify 배포 : [Page](https://delightful-rugelach-50be68.netlify.app/#/)
 
 ## Specs
 
