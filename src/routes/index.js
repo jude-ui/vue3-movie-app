@@ -1,11 +1,8 @@
-import { createRouter, createWebHashHistory } from 'vue-router'
-import Home from './Home'
-import Movie from './Movie'
-import About from './About'
-import NotFound from './NotFound'
+import { createRouter, createWebHistory, createWebHashHistory } from 'vue-router'
 
 export default createRouter({
-  history: createWebHashHistory(),
+  // history: createWebHashHistory(),
+  history: createWebHistory(),
   scrollBehavior(to, from, savedPosition) {
     if (savedPosition) {
       return savedPosition
