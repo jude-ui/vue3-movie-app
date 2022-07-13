@@ -21,7 +21,6 @@ $ npm run dev
 - PostCSS
 - Autoprefixer
 - ESLint
-
 - Vue Router
 - bootstrap
 - axios
