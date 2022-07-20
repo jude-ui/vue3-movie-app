@@ -4,7 +4,7 @@
 
 ```bash
 # Default.
-$ npx degit jude-ui/vue3-webpack-template <Project Name>
+$ npx degit jude-ui/vue3-movie-app <Project Name>
 
 # Start!
 $ cd <Project Name>
