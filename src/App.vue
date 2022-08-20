@@ -13,6 +13,9 @@ export default {
     Header,
     Footer
   },
+  created() {
+    console.log('test', process.env.NODE_ENV)
+  },
   data() {
     return {
       message: 'Hello Vue!'
